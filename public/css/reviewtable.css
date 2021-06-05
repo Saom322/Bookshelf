@@ -1,0 +1,25 @@
+table{
+
+	background-color: #D1E6F9;
+	color: black;
+	height: 90PX;
+	border-collapse: collapse;
+	overflow: auto; 
+    margin-top: 100px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: chartreuse;
+	height: max-content;
+}
+th{
+	text-align: left;
+	height:40px;
+	border: 2px solid #8EBEE7;;
+}
+td{
+	text-align: left;
+	width: auto;
+	border-bottom: 2px solid #8EBEE7;
+    border-right: 2px solid #8EBEE7;
+    padding-left: 10px;;
+}

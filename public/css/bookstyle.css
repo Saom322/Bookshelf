@@ -1,0 +1,28 @@
+
+.img-div img{
+    height: 350px;
+    width: 250px;
+    /* border: red 2px solid; */
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.img-div{
+    /* border: blue 2px solid; */
+    width: 200px;
+    height: 380px;
+    
+}
+.card-section{
+    /* border: 2px solid black; */
+    height: 500px;
+}
+.book-description{
+    /* border: 2px solid red; */
+    height: 400px;
+    margin-top: 20px;
+    
+}
+.footer-img img{
+    height: 50px;
+    width: 50px;
+}
